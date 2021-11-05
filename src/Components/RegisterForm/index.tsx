@@ -81,6 +81,7 @@ export const RegisterForm = () => {
 
           <TextField
             label="Senha"
+            type="password"
             color="info"
             size="medium"
             variant="outlined"
@@ -92,6 +93,7 @@ export const RegisterForm = () => {
 
           <TextField
             label="Confirmar senha"
+            type="password"
             color="info"
             size="medium"
             variant="outlined"

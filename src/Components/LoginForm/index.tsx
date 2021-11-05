@@ -56,6 +56,7 @@ export const LoginForm = () => {
 
           <TextField
             label="Senha"
+						type="password"
             color="info"
             size="medium"
             variant="outlined"
